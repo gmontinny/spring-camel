@@ -1,0 +1,6 @@
+
+camel:
+  component:
+    servlet:
+      mapping:
+        contextPath: /ecommapp/*
